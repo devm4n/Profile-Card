@@ -34,7 +34,7 @@ html,body{
 img{
     position: relative;
     bottom: 90px;
-    left: 110px;
+    left: 120px;
     height: 150px;
     border-radius: 50%;
     transition: .3s ease-in;
@@ -47,7 +47,7 @@ img:hover{
 h2{
     font-size: 32px;
     padding-top: 40px;
-    padding-left: 70px;
+    padding-left: 80px;
     line-height: 2;
     color: #ffedd3;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
